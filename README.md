@@ -1,6 +1,7 @@
 # catalytic-cracking-ML
 Data-driven workflows using PCA for optimizing catalytic cracking performance using ML
 
+## Description 
 This repository contains machine learning workflows for catalytic cracking analysis, 
 focusing on predicting conversion and gasoline yield. The project explores techniques 
 such as Principal Component Analysis (PCA), k-means clustering, Gaussian Process 
